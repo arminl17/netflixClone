@@ -1,5 +1,6 @@
 
 ## Available Scripts
+### You need to get a RIOT API key - you can obtain one at -> [https://developer.riotgames.com/#](https://developer.riotgames.com/#)
 
 In the project directory, you can run:
 
